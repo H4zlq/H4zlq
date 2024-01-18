@@ -11,11 +11,12 @@
       I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia
     </p>
   <ul>
+    <li>🧑‍💻 I’m currently a developer on <a href="https://www.ovshosting.com/">OVS Hosting</a>
     <li>🏢 Currently coding a discord bot and mobile app for payments, Send me a discord message to discuss</li>
     <li>🌱 I’m currently learning Go Programming Language and Python Programming Language</li>
     <li>👯 I’m looking to collaborate on open-source projects</li>
     <li>🥅 2024 Goals: Contribute more to the GitHub community</li>
-    <li>⚡ Fun fact: I love to games and explore something incredibly fun</li>
+    <li>⚡ Fun fact: I love to play games and explore something entertaining</li>
   </ul>
 </div>
 
