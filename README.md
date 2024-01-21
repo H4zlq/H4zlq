@@ -30,7 +30,7 @@
   <a href="https://twitter.com/h_4zlq">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://www.tiktok.com/@hziqnim">
+  <a href="https://www.tiktok.com/@nxim_dev">
     <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white"  alt="Tiktok Badge">
   </a>
   <a href="https://discord.com/users/217655947194007552">
