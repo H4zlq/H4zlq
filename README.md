@@ -12,10 +12,11 @@
     </p>
   <ul>
     <li>🧑‍💻 I’m currently a developer on <a href="https://www.ovshosting.com/">OVS Hosting</a>
-    <li>🏢 Currently coding a discord bot and mobile app for payments, Send me a discord message to discuss</li>
-    <li>🌱 I’m currently learning Go Programming Language and Python Programming Language</li>
+    <li>🏢 Currently making a final year project for my last semester</li>
+    <li>🌱 I’m currently learning Go Programming Language</li>
     <li>👯 I’m looking to collaborate on open-source projects</li>
     <li>🥅 2024 Goals: Contribute more to the GitHub community</li>
+    <li>🚀 Contact me if you're interested in making a final year project for last semester</li>
     <li>⚡ Fun fact: I love to play games and explore something entertaining</li>
   </ul>
 </div>
@@ -35,6 +36,9 @@
   </a>
   <a href="https://discord.com/users/217655947194007552">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  </a>
+  <a href="https://wa.me/60195071820">
+    <img src="https://img.shields.io/badge/Whatsapp-%23075E54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
   </a>
 </div>
 
