@@ -12,7 +12,7 @@
     </p>
   <ul>
     <li>🧑‍💻 I’m currently a developer on <a href="https://www.ovshosting.com/">OVS Hosting</a>
-    <li>🏢 Currently making a final year project for my last semester</li>
+    <li>🏢 Currently an internship in Apex Group</li>
     <li>🌱 I’m currently learning Go Programming Language</li>
     <li>👯 I’m looking to collaborate on open-source projects</li>
     <li>🥅 2024 Goals: Contribute more to the GitHub community</li>
