@@ -8,16 +8,16 @@
 
 <div id="about-me">
     <p>
-      I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia
+      👨‍💻 Developer | Open-Source Enthusiast | Based in Malaysia
+    </p>
+    <p>
+      I am currently an Intern at Apex Group of Companies Malaysia, where I am enhancing my software development skills. Passionate about building practical solutions, I am currently developing a Discord bot and a mobile payment application. Feel free to reach out to discuss potential projects or collaborations!
     </p>
   <ul>
-    <li>🧑‍💻 I’m currently a developer on <a href="https://www.ovshosting.com/">OVS Hosting</a>
-    <li>🏢 Currently an internship in Apex Group</li>
-    <li>🌱 I’m currently learning Go Programming Language</li>
     <li>👯 I’m looking to collaborate on open-source projects</li>
-    <li>🥅 2024 Goals: Contribute more to the GitHub community</li>
+    <li>🥅 2025 Goal: Increase my contributions to GitHub and engage more with tech communities.</li>
     <li>🚀 Contact me if you're interested in making a final year project for last semester</li>
-    <li>⚡ Fun fact: I love to play games and explore something entertaining</li>
+    <li>⚡ Fun Fact: When I’m not in coding mood, I enjoy gaming and exploring new forms of entertainment.</li>
   </ul>
 </div>
 
