@@ -11,7 +11,7 @@
       👨‍💻 Developer | Open-Source Enthusiast | Based in Malaysia
     </p>
     <p>
-      I am currently an Intern at Apex Group of Companies Malaysia, where I am enhancing my software development skills. Passionate about building practical solutions, I am currently developing a Discord bot and a mobile payment application. Feel free to reach out to discuss potential projects or collaborations!
+      I am currently an Full Stack Developer at Apex Group of Companies Malaysia, where I am enhancing my software development skills. Passionate about building practical solutions, I am currently developing a Discord bot and a mobile payment application. Feel free to reach out to discuss potential projects or collaborations!
     </p>
   <ul>
     <li>👯 I’m looking to collaborate on open-source projects</li>
