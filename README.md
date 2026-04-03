@@ -15,7 +15,7 @@
     </p>
   <ul>
     <li>👯 I’m looking to collaborate on open-source projects</li>
-    <li>🥅 2025 Goal: Increase my contributions to GitHub and engage more with tech communities.</li>
+    <li>🥅 2026 Goal: Increase my contributions to GitHub and engage more with tech communities.</li>
     <li>🚀 Contact me if you're interested in making a final year project for last semester</li>
     <li>⚡ Fun Fact: When I’m not in coding mood, I enjoy gaming and exploring new forms of entertainment.</li>
   </ul>
