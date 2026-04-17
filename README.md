@@ -44,54 +44,38 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Tech Stack:
 
-<table id="language-and-tools">
+<table>
   <tr>
-    <td valign="top" width="100%">
-      <!-- Languages -->
-      <h6>Languages</h6>
+    <td valign="top" width="20%">
+      <h6>Core</h6>
       <div align="center">
-        <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50" style="margin: 5px;" /></a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,go,php" /></a>
       </div>
     </td>
-    <td valign="top" width="33.33%">
-      <!-- Tools -->
-      <h6>Tools</h6>
+    <td valign="top" width="20%">
+      <h6>Frontend</h6>
       <div align="center">
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" alt="SQlite" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" style="margin: 5px;" height="50" /></a>
-        <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50"  height="50" style="margin: 5px;" /></a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /></a>
       </div>
     </td>
-    <td valign="top" width="33.33%">
-      <!-- Framework -->
-      <h6>Framework</h6>
+    <td valign="top" width="20%">
+      <h6>Backend</h6>
       <div align="center">
-        <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://discord.js.org/#/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" title="Discord.js" alt="Discord.js" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://angular.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="50" height="50" style="margin: 5px;" /></a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,laravel,flask,django" /></a>
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h6>Mobile</h6>
+      <div align="center">
+        <a href="#"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h6>Database & Tools</h6>
+      <div align="center">
+        <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git" /></a>
       </div>
     </td>
   </tr>
