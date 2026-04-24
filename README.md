@@ -46,40 +46,27 @@
 
 ### :hammer_and_wrench: Tech Stack:
 
-<table>
-  <tr>
-    <td valign="top" width="20%">
-      <h6>Core</h6>
-      <div align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,go,php" /></a>
-      </div>
-    </td>
-    <td valign="top" width="20%">
-      <h6>Frontend</h6>
-      <div align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /></a>
-      </div>
-    </td>
-    <td valign="top" width="20%">
-      <h6>Backend</h6>
-      <div align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,laravel,flask,django" /></a>
-      </div>
-    </td>
-    <td valign="top" width="20%">
-      <h6>Mobile</h6>
-      <div align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=flutter" /></a>
-      </div>
-    </td>
-    <td valign="top" width="20%">
-      <h6>Database & Tools</h6>
-      <div align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
+**Core**
+
+![Core](https://skillicons.dev/icons?i=js,ts,python,go,php,rust&height=40)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&height=40)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,laravel,flask,django&height=40)
+
+**Mobile**
+
+![Mobile](https://skillicons.dev/icons?i=flutter&height=40)
+
+**Database & Tools**
+
+![Database](https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,git&height=40)
+
+---
 
 ### :fire: My Stats:
 
